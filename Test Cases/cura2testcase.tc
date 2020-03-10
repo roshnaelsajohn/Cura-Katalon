@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>trying to commit to github</description>
+   <name>cura2testcase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e4ce4f0-b6c8-498d-84e2-f505d739c21a</testCaseGuid>
+</TestCaseEntity>
